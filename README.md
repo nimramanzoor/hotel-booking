@@ -14,3 +14,28 @@
 - ADD, Remove, Edit Number of Rooms
 - View Booked Room
 - Add new Admin
+
+## Technologies Used
+
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- XAMPP / phpMyAdmin
+
+## Database
+
+The project uses a MySQL database named `hotel`.  
+Main tables include:
+- `manager`
+- `rooms`
+- `room_category`
+
+## Project Purpose
+
+The purpose of this project is to provide a simple and functional hotel reservation system where customers can book rooms online and administrators can manage hotel room records and booking information efficiently.
+- `rooms`
+- `room_category`
